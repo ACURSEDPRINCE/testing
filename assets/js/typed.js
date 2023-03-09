@@ -1,0 +1,1 @@
+new Typed('#typed',{strings:[,'.gg/5fov','top 3','shhhhh','that was it','friends :D','renzo','jolly','flood','koda','phil','keev','sosa','batmin','timmy','jack','ransey','torso','splitta','gp','poko','uriah','zenza','zoma','rose',],typeSpeed:50,delaySpeed:111,showCursor:true,loop:true})
